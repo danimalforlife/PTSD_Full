@@ -1,0 +1,90 @@
+title: PTSD
+originalAuthor: Danimalforlife
+description: roro...
+
+assets:
+- name: remastered/map/us/lm10.bar/US_lm10_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu00.bar/US_mu00_bar0.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/Bingus.png
+- name: remastered/map/us/mu01.bar/US_mu01_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu02.bar/US_mu02_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu03.bar/US_mu03_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu04.bar/US_mu04_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu05.bar/US_mu05_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu06.bar/US_mu06_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu07.bar/US_mu07_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu08.bar/US_mu08_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu09.bar/US_mu09_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu10.bar/US_mu10_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu11.bar/US_mu11_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/map/us/mu12.bar/US_mu12_bar0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/thanks_ptsd.dds
+- name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd2.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/roro.png
+- name: bgm/music112.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
+- name: bgm/music116.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
