@@ -12,7 +12,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/map/Bingus.png
+  - name: remastered/field2d/thanks_ptsd.png
 - name: remastered/map/us/mu01.bar/US_mu01_bar0.dds
   platform: pc
   method: copy
